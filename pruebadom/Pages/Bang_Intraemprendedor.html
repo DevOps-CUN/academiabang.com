@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bang</title>
+    <!-- Bootstrap -->
+    <link href="../css/bootstrap-4.3.1.css" rel="stylesheet">
+    <link href="../css/stylesbangintra.css" rel="stylesheet">
+    <!-- ScrollReveal -->
+    <script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
+    <script>
+        ScrollReveal({
+            duration: 1000
+        })
+    </script>
+    <!--Fonts-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light+Two&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Delius&display=swap" rel="stylesheet">
+    <!-- Pdf -->
+    <script src="../js/pdf.js"></script>
+</head>
+
+<body>
+    <div id="celular">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <a class="navbar-brand ml-2" href="../index.html">
+                <img src="../images/Bang_Logo.png">
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+                </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto mr-3">
+                    <li class="nav-item ">
+                        <a class="mylink nav-link mx-2" href="../index.html">Inicio <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link mx-2" href="Nosotros.html">Nosotros<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link mx-2 active" href="Certificaciones.html">Certificaciones <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link mx-2" href="Juegos.html">Juegos y apps <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link mx-2" href="Intraemprendedores.html">Intraemprendedores <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link mx-2" href="Contacto.html">Contacto <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item ">
+                        <button class="btn mx-2 my-sm-0" type="submit">
+                                <img src="../images/boton_space_bang.png">
+                            </button>
+                    </li>
+                    <!--<li class="nav-item ">
+                        <button class="btn mx-2 my-sm-0" type="submit"><img src="../images/carro_compras.png"></button>
+                    </li>-->
+                </ul>
+            </div>
+        </nav>
+
+        <img id="imagencer" src="../images/Certificados/Banner_principal.png" class="escritorio img img-fluid w-100" alt="Responsive image">
+        <img id="imagenlogobang" src="../images/Certificados/Logo_intraemprendedor2.png" class="img escritorio img-fluid w-25" alt="Responsive image">
+
+        <div class="escritorio">
+            <div id="Section1" class="row">
+                <div class="col-11 scrollnuevo">
+                    <img id="imagen1" src="../images/Certificados/Intraemprendedor/bangintra1.0_02_01.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+                <div class="col-1 scrollnuevo">
+                    <a id="btn_regresar" href="Certificaciones.html" class="btn btn-sm d-flex align-items-start pt-4" type="submit">
+                        <img src="../images/Certificados/Intraemprendedor/btn_regresar.png" class=" img-fluid w-50" alt="Responsive image">
+                    </a>
+                </div>
+                <div class="col-12 scrollnuevo">
+                    <img id="imagen2" src="../images/Certificados/Intraemprendedor/bangintra2.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+                <div class="col-12 scrollnuevo">
+                    <img id="imagen3" src="../images/Certificados/Intraemprendedor/bangintra3.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+                <div class="col-2">
+                </div>
+                <div class="col-4 scrollnuevo py-5 my-3 px-4 d-flex align-content-center justify-content-center">
+                    <a id="btn_escribenos_individual" href="Contacto.html" class="btn d-flex align-items-start" type="submit">
+                        <img src="../images/Certificados/Intraemprendedor/btn_escribenosamarillo.png" class=" img-fluid w-100" alt="Responsive image">
+                    </a>
+                </div>
+                <div class="col-4 scrollnuevo py-5 my-3 px-4 d-flex align-content-center justify-content-center">
+                    <a id="btn_brochure_individual" href="../files/BrochureBANG(Individual).pptx.pdf" class="btn d-flex align-items-start" type="submit">
+                        <img src="../images/Certificados/Intraemprendedor/btn_brochureamarillo.png" class=" img-fluid w-100" alt="Responsive image">
+                    </a>
+                </div>
+                <div class="col-2">
+                </div>
+            </div>
+            <div id="Section2" class="row">
+                <div class="col-12  scrollnuevo">
+                    <a id="btn_escribenos" href="Contacto.html" class="btn d-flex align-items-end justify-content-end py-3" type="submit">
+                        <img id="btn_morado" src="../images/Certificados/Intraemprendedor/btn_escribenos.png" class=" img-fluid w-auto h-auto" alt="Responsive image">
+                    </a>
+                    <a id="btn_brochure" href="../files/BrochureBANG(Empresas).pptx.pdf" class="btn d-flex align-items-start py-3" type="submit">
+                        <img id="btn_rosa" src="../images/Certificados/Intraemprendedor/BTN_CONOCE.png" class=" img-fluid w-auto h-auto" alt="Responsive image">
+                    </a>
+                    <img id="imagen4" src="../images/Certificados/Intraemprendedor/bangintra4.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+            </div>
+        </div>
+
+        <div class="movil">
+            <div id="Section1" class="row">
+                <div class="col-11 scrollnuevo">
+                    <img id="imagen1" src="../images/Certificados/Intraemprendedor/Bang_intraemprededormovil_01.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+                <div class="col-1 scrollnuevo">
+                    <a id="btn_regresar" href="Certificaciones.html" class="btn btn-sm d-flex align-items-start pt-4" type="submit">
+                        <img src="../images/Certificados/Intraemprendedor/btn_regresar.png" class=" img-fluid w-50" alt="Responsive image">
+                    </a>
+                </div>
+                <div class="col-12 pb-3 scrollnuevo">
+                    <img id="imagen2" src="../images/Certificados/Intraemprendedor/Bang_intraemprededormovil_02.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+                <div class="col-12 pt-5 scrollnuevo">
+                    <img id="imagenmovil" src="../images/Certificados/Intraemprendedor/personaje_movil.png" class="img-fluid h-75" alt="Responsive image">
+                    <img id="imagen3" src="../images/Certificados/Intraemprendedor/Bang_intraemprededormovil_03.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+                <div class="col-12 scrollnuevo py-3 d-flex align-content-center justify-content-center">
+                    <a href="Contacto.html" class="btn d-flex justify-content-center align-items-end" type="submit">
+                        <img src="../images/Certificados/Intraemprendedor/btn_escribenosamarillo.png" class=" img-fluid w-75" alt="Responsive image">
+                    </a>
+                    <button data-toggle="modal" data-target="#MyModalCenter2" class="btn d-flex justify-content-center align-items-end" type="submit">
+                        <img src="../images/Certificados/Intraemprendedor/btn_brochureamarillo.png" class=" img-fluid w-75" alt="Responsive image">
+                    </button>
+                </div>
+            </div>
+            <div id="Section2" class="row">
+                <div class="col-12  scrollnuevo">
+                    <img id="imagen4" src="../images/Certificados/Intraemprendedor/Bang_intraemprededormovil_04.png" class="img-fluid w-100" alt="Responsive image">
+                </div>
+                <div class="col-12  scrollnuevo py-3 d-flex align-content-center justify-content-center">
+                    <a href="Contacto.html" class="btn d-flex align-items-end justify-content-center  pb-5" type="submit">
+                        <img src="../images/Certificados/Intraemprendedor/btn_escribenos.png" class=" img-fluid w-75" alt="Responsive image">
+                    </a>
+                    <button data-toggle="modal" data-target="#MyModalCenter" class="btn d-flex align-items-end justify-content-center pb-5 ">
+                        <img src="../images/Certificados/Intraemprendedor/BTN_CONOCE.png" class=" img-fluid w-75" alt="Responsive image">
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal Empresas-->
+    <div class="modal fade myModal " id="MyModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-xl" role="document">
+            <div id="ModalCenter2" class="modal-content modal_dentro">
+                <iframe style="display:block" id="docP" src="../files/BrochureBANG(Empresas).pptx" frameborder="0"></iframe>
+            </div>
+        </div>
+    </div>
+    <!-- Modal Individual-->
+    <div class="modal fade myModal " id="MyModalCenter2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-xl" role="document">
+            <div id="ModalCenter2" class="modal-content modal_dentro">
+                <iframe style="display:block" id="docP" src="../files/BrochureBANG(Individual).pptx.pdf" frameborder="0"></iframe>
+            </div>
+        </div>
+    </div>
+    <!-- ScrollReveal -->
+    <script>
+        window.sr = new ScrollReveal();
+        ScrollReveal().reveal('.scrollnuevo', {
+            delay: 400
+        })
+        ScrollReveal().reveal('.img')
+    </script>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="../js/jquery-3.3.1.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="../js/popper.min.js"></script>
+    <script src="../js/bootstrap-4.3.1.js"></script>
+</body>
+
+</html>

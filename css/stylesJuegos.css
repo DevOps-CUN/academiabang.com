@@ -1,0 +1,58 @@
+h2 {
+    color: #261237;
+    text-align: center;
+    font-size: 5vh !important;
+}
+
+h3 {
+    color: #261237;
+    font-family: 'Delius', cursive !important;
+    text-align: left;
+    font-size: medium;
+    font-size: 2.5vh !important;
+}
+
+.boton {
+    text-align: left;
+}
+
+.parrafo {
+    color: #366475;
+    font-family: 'Delius', cursive !important;
+    font-size: medium;
+    text-align: left;
+    font-size: 2.5vh !important;
+}
+
+@media (max-width: 992px) {
+    h2 {
+        color: #261237;
+        text-align: center;
+        font-size: 6vh !important;
+    }
+    h3 {
+        color: #261237;
+        font-family: 'Delius', cursive !important;
+        text-align: left;
+        font-size: medium;
+        font-size: 4vh !important;
+    }
+    .parrafo {
+        color: #366475;
+        font-family: 'Delius', cursive !important;
+        font-size: medium;
+        text-align: left;
+        font-size: 3.5vh !important;
+    }
+}
+
+@media only screen and (orientation:portrait) {
+    #celular {
+        display: none;
+    }
+    body {
+        background-image: url("../images/Girar_1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

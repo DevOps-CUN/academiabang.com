@@ -1,0 +1,606 @@
+{
+    "Personas": [{
+            "Nombre": "Alexander <br> Hernández Velásquez ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida"
+            ]
+        },
+        {
+            "Nombre": "Aura Luz  <br> Rodriguez ",
+            "Titulo": [
+                "Orientación al logro ",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        },
+        {
+            "Nombre": "Carlos Darío  <br> Morales Carvajalino",
+            "Titulo": [
+                "Creatividad",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": " Diana Esther <br> Alvarez Contreras",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento"
+            ]
+        }, {
+            "Nombre": " Edgar Mauricio <br>Leguizamón López ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Jonny Eliecer <br>Luna Rincón ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": " Julia <br>García Acevedo ",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Orientación al logro "
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible."
+            ]
+        }, {
+            "Nombre": "Lina Margarita <br>Campo Rodriguez  ",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Orientación al logro "
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten"
+            ]
+        }, {
+            "Nombre": "Liz Katherine <br>Ariza Matamoros ",
+            "Titulo": [
+                "Orientación al logro ",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Maximina Patricia <br>Avendaño Jimenez ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Nestor Julian <br>Londoño Mejia",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Vanessa Yaneth <br>Noreña Torres ",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Andrea Katherine <br>García González ",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Acude tanto a procesos estructurados, confiables y comunes, como a procesos originales e inusuales para resolver problemas. Con la motivación adecuada puede experimentar con ideas o perspectivas sorprendentes en la búsqueda de resultados auténticos y dirigidos a solucionar problemas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Angela Lyulieth <br>Bernal Martínez ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Angie Fernanda <br>Moreno Ramirez ",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "César Humberto <br>Rodríguez Castro ",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Dayron Yemmery <br>Higuera Soto ",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Orientación al logro "
+            ],
+            "Parrafo": [
+                "Acude tanto a procesos estructurados, confiables y comunes, como a procesos originales e inusuales para resolver problemas. Con la motivación adecuada puede experimentar con ideas o perspectivas sorprendentes en la búsqueda de resultados auténticos y dirigidos a solucionar problemas.",
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten."
+            ]
+        }, {
+            "Nombre": "Diana Patricia <br>Camargo Ramírez ",
+            "Titulo": [
+                "Creatividad",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Emma Luz <br>Polo Lindo ",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Juan Pablo <br>Lopez Alfonso ",
+            "Titulo": [
+                "Creatividad",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Juan Sebastián <br>Lotero Jaramillo ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "María Angélica <br>Arias Naranjo ",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Orientación al logro "
+            ],
+            "Parrafo": [
+                "Acude tanto a procesos estructurados, confiables y comunes, como a procesos originales e inusuales para resolver problemas. Con la motivación adecuada puede experimentar con ideas o perspectivas sorprendentes en la búsqueda de resultados auténticos y dirigidos a solucionar problemas.",
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten"
+            ]
+        }, {
+            "Nombre": "Mildred Yaneth <br>Escobar Ladino ",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Laura Daniela <br>Lopez Ceron ",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Tiene capacidad para identificar debilidades y fortalezas de competidores mediante la planeación y el análisis de información para proponer ventajas competitivas, al igual que capacidad de responder frente a los factores contextuales de los que sacar provecho, y con lo que aporta al cumplimiento de sus responsabilidades.",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Liseth Adriana <br>Ostos Ramírez ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida."
+            ]
+        }, {
+            "Nombre": "Iron Alexander <br>Fuentes Rodríguez ",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Siente interés por las recompensas que conlleva el éxito en el emprendimiento, especialmente como solución a dificultades para devengar ingresos, alcanzar mayor independencia económica, o generar una entrada estable adicional, siendo capaz de generar aportes significativos en proyectos emprendedores.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Paola Andrea Plata Pacheco",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Yisell García Ramírez",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Acude tanto a procesos estructurados, confiables y comunes, como a procesos originales e inusuales para resolver problemas. Con la motivación adecuada puede experimentar con ideas o perspectivas sorprendentes en la búsqueda de resultados auténticos y dirigidos a solucionar problemas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida."
+            ]
+        }, {
+            "Nombre": "Vivian Michel Cucuma Osorio",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Alex David Medina Cely",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Tiene capacidad para identificar debilidades y fortalezas de competidores mediante la planeación y el análisis de información para proponer ventajas competitivas, al igual que capacidad de responder frente a los factores contextuales de los que sacar provecho, y con lo que aporta al cumplimiento de sus responsabilidades.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "José Reynaldo Villanueva Moreno",
+            "Titulo": [
+                "Creatividad",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Acude tanto a procesos estructurados, confiables y comunes, como a procesos originales e inusuales para resolver problemas. Con la motivación adecuada puede experimentar con ideas o perspectivas sorprendentes en la búsqueda de resultados auténticos y dirigidos a solucionar problemas.",
+                "Capaz de elaborar ideas de cómo alcanzar la realización personal por medio de una actividad productiva consistente con las actividades que le apasionan, considerando al emprendimiento como una alternativa que eventualmente puede articularse con la realización de otros planes de vida.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Marisol Moreno Hernández",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Andrés Camilo Aponte López",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Orientación al logro"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten"
+            ]
+        }, {
+            "Nombre": "Martha Milena Cuellar Chaves",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Sindy Dayana Gutiérrez Gómez",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Intención de emprender",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Jorge Enrique Santos Velandia",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Intención de emprender"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Demuestra rendimiento superior gracias a la claridad con la que determina sus objetivos y al enfoque con el que progresa hacia la obtención de resultados mediante la autodirección y la superación de retos e imprevistos, invirtiendo la energía suficiente para alcanzar los logros y optimizando en lo posible el aprovechamiento de sus esfuerzos para obtener la máxima calidad posible.",
+                "Tiene alta motivación por ejecutar ideas de emprendimiento ambiciosas, que generen un efecto de transformación sobre las dinámicas del mercado o las personas, mantienendo amplias expectativas sobre los alcances de sus proyectos de emprendimiento."
+            ]
+        }, {
+            "Nombre": "Leidy Johanna Vanegas Galindo",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Buena parte de sus metas son ambiciosas, y están establecidas con la confianza, la claridad y el enfoque necesarios, por lo que es capaz de comprometer sus esfuerzos para para lograr sus objetivos , persiguiendo resultados que constantemente sobresalgan de la calidad estándar y siendo capaz de ajustar la intensidad de su trabajo en correspondencia con los imprevistos que se presenten",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Alexander<br> González Ortega",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Claudia Patricia <br>Numpaque Pérez",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Claudia Rocio <br>Garzon Acero",
+            "Titulo": [
+                "Creatividad",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Consuelo <br>Vargas Aguacia",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Tiene capacidad para identificar debilidades y fortalezas de competidores mediante la planeación y el análisis de información para proponer ventajas competitivas, al igual que capacidad de responder frente a los factores contextuales de los que sacar provecho, y con lo que aporta al cumplimiento de sus responsabilidades.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Diego Alejandro <br>Barrera Mancera",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Edwin <br>Dueñas Pinzón",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Johan Mauricio <br>Parra Herrera",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Tiene capacidad para identificar debilidades y fortalezas de competidores mediante la planeación y el análisis de información para proponer ventajas competitivas, al igual que capacidad de responder frente a los factores contextuales de los que sacar provecho, y con lo que aporta al cumplimiento de sus responsabilidades.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Maritza Guarin Sanchez",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Tiene habilidad para deducir asertivamente fortalezas y debilidades de competidores en búsqueda de sus propias ventajas, al igual que una constante y aguda sensibilidad sobre los factores contextuales con los que puede proponer acciones estratégicas a partir de nuevas ideas.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }, {
+            "Nombre": "Mayerly Aidee <br>Rojas Murillo",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En su mayoría, acude a procesos desestructurados y singulares al momento de resolver problemas, produciendo intencionadamente resultados originales orientados a la solución de problemas, basado en la experimentación con ideas o perspectivas auténticas.",
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Yolanda <br>Camargo Salgado",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "En grán parte de los procesos es capaz de resolver problemas mediante procesos desestructurados y novedosos, produciendo resultados originales orientados al desarrollo de resultados o la solución de problemas, aprovechando los recursos de la experimentación con ideas o perspectivas auténticas.",
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Motiva a las personas mejor capacitadas para el trabajo con carisma y empatía, tiene iniciativa para dinamizar la interacción entre los miembros del equipo para promover la colaboración y el trabajo por objetivos mutuos, aportando a la versatilidad del grupo y distribuyendo las funciones de acuerdo a los intereses de cada persona."
+            ]
+        }, {
+            "Nombre": "Myriam <br>Niño González",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Puede asumir un estado de alerta para identificar debilidades y fortalezas cruciales de competidores en la búsqueda de sus propias ventajas. Al igual, es capaz de escanear y diferenciar los factores contextuales relevantes con los que puede sacar provecho de oportunidades o sugerir soluciones diferentes a necesidades comunes.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva"
+            ]
+        }, {
+            "Nombre": "Yuly Alejandra <br>Romero Barragan",
+            "Titulo": [
+                "Creatividad",
+                "Identificación de oportunidades",
+                "Orientación al logro "
+            ],
+            "Parrafo": [
+                "Acude tanto a procesos estructurados, confiables y comunes, como a procesos originales e inusuales para resolver problemas. Con la motivación adecuada puede experimentar con ideas o perspectivas sorprendentes en la búsqueda de resultados auténticos y dirigidos a solucionar problemas.",
+                "Tiene capacidad para identificar debilidades y fortalezas de competidores mediante la planeación y el análisis de información para proponer ventajas competitivas, al igual que capacidad de responder frente a los factores contextuales de los que sacar provecho, y con lo que aporta al cumplimiento de sus responsabilidades.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos."
+            ]
+        }, {
+            "Nombre": "Paula Andrea <br>Ruiz Lopez",
+            "Titulo": [
+                "Identificación de oportunidades",
+                "Orientación al logro ",
+                "Trabajo en equipo"
+            ],
+            "Parrafo": [
+                "Tiene capacidad para identificar debilidades y fortalezas de competidores mediante la planeación y el análisis de información para proponer ventajas competitivas, al igual que capacidad de responder frente a los factores contextuales de los que sacar provecho, y con lo que aporta al cumplimiento de sus responsabilidades.",
+                "Se interesa y enfoca en múltiples metas e invierte sus esfuerzos en distintas direcciones y con distintas intensidades, por lo que dispersa buena parte de su energía y disminuye la potencia de su trabajo, siendo capaz de alcanzar sus objetivos si no se presentan imprevistos.",
+                "Maneja la articulación de los equipos de acuerdo al valor de las personas, alineando los intereses de los miembros con objetivos comunes debidamente establecidos, distribuyendo las distintas funciones de acuerdo a los requerimientos del trabajo y orientando los resultados asertivamente a través de la retroalimentación positiva."
+            ]
+        }
+    ]
+}

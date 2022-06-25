@@ -1,0 +1,57 @@
+h2 {
+    color: #FAC645;
+    text-align: center;
+    font-size: 5vh !important;
+}
+
+.parrafo {
+    color: white;
+    font-family: 'Delius', cursive !important;
+    text-align: center;
+    font-size: 3vh;
+}
+
+#Input1,
+#Input2,
+#Input3,
+#Input4,
+#Input5,
+#TextAreaHome {
+    font-family: 'Delius', cursive !important;
+    color: #230821;
+}
+
+#bang_contacto {
+    background-color: #21a2a5;
+}
+
+#opciones {
+    text-align: center;
+    font-family: 'Delius', cursive !important;
+    color: #230821;
+}
+
+.btn-icon {
+    color: #fff;
+}
+
+#icon-tiktok {
+    width: 2.6vh;
+}
+
+@media (max-width: 992px) {
+    #icon-tiktok {
+        width: 6vh;
+    }
+}
+
+@media only screen and (orientation:portrait) {
+    #celular {
+        display: none;
+    }
+    body {
+        background-image: url("../images/Girar_1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

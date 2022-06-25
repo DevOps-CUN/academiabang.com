@@ -1,0 +1,124 @@
+h2 {
+    text-align: center;
+    color: #FAC645;
+    font-size: 6vh !important;
+}
+
+h3 {
+    color: #21A2A5;
+    text-align: center;
+    font-size: 5vh !important;
+}
+
+h4 {
+    color: #21A2A5;
+    text-align: center;
+    font-size: 3.5vh !important;
+}
+
+.parrafo {
+    color: white;
+    font-family: 'Delius', cursive !important;
+    text-align: center;
+    text-align: justify;
+    font-size: 3vh;
+}
+
+.parrafo1 {
+    color: #230821;
+    font-family: 'Delius', cursive !important;
+    font-size: medium;
+    text-align: center;
+    font-size: 3vh;
+}
+
+.parrafo2 {
+    color: #230821;
+    font-family: 'Delius', cursive !important;
+    font-size: medium;
+    text-align: center;
+    font-size: 2.5vh;
+}
+
+.parrafo3 {
+    color: #230821;
+    font-family: 'Delius', cursive !important;
+    font-size: medium;
+    text-align: left;
+    font-size: 3vh;
+}
+
+.sectionazul {
+    background-color: #21A2A5;
+}
+
+.imagen_como {
+    z-index: 3;
+}
+
+#section3 {
+    background-image: url("../images/Nosotros/Banner_2.png");
+    background-size: 100% 100%;
+    ;
+    background-repeat: no-repeat;
+}
+
+#section2 {
+    background-image: url("../images/Nosotros/Como_empezó2.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.imagen {
+    width: 80% !important;
+}
+
+@media (min-width: 992px) {
+    #section2_mov {
+        display: none;
+    }
+}
+
+@media (max-width: 992px) {
+    #section2 {
+        display: none;
+    }
+    .imagen {
+        width: 100% !important;
+    }
+    .col-12 {
+        padding: 0% !important;
+    }
+    .parrafo {
+        font-size: 3.8vh;
+    }
+    .parrafo3 {
+        font-size: 3.8vh;
+    }
+    .parrafo2 {
+        font-size: 3vh;
+    }
+    .parrafo1 {
+        font-size: 3.8vh;
+    }
+    h2 {
+        font-size: 8vh !important;
+    }
+    h3 {
+        font-size: 8vh !important;
+    }
+    h4 {
+        font-size: 4.5vh !important;
+    }
+}
+
+@media only screen and (orientation:portrait) {
+    #celular {
+        display: none;
+    }
+    body {
+        background-image: url("../images/Girar_1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

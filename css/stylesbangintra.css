@@ -1,0 +1,159 @@
+#Section1 {
+    background-color: #2d1b49;
+}
+
+#Section2 {
+    background-color: #f8c444;
+}
+
+iframe {
+    width: 100%;
+    height: 200%;
+}
+
+#frame {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+#bangintraimg {
+    z-index: 2;
+    position: absolute;
+    top: 65.5vh;
+}
+
+#btn_escribenos {
+    z-index: 3;
+    position: absolute;
+    bottom: 5vh;
+    right: 6vw;
+}
+
+#btn_morado {
+    width: 100%;
+    height: 100%;
+}
+
+#btn_brochure {
+    z-index: 3;
+    position: absolute;
+    bottom: 5vh;
+    right: 28vw;
+}
+
+#btn_rosa {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+
+/*#btn_escribenos_rosa {
+    z-index: 3;
+    position: absolute;
+    bottom: 10vh;
+    right: 30vw;
+}*/
+
+#imagenmovil {
+    z-index: 3;
+    position: absolute;
+    top: -34vh;
+    right: 2vw;
+}
+
+#imagenlogobang {
+    z-index: 3;
+    position: absolute;
+    top: 60vh;
+    left: 2vw;
+}
+
+.col-12,
+.col-11,
+.col-1 {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+@media (max-width: 992px) {
+    .escritorio {
+        display: none;
+    }
+}
+
+@media (max-width: 1500px) {
+    #btn_morado,
+    #btn_rosa {
+        width: 80% !important;
+        height: 80% !important;
+    }
+    #btn_escribenos {
+        z-index: 3;
+        position: absolute;
+        bottom: 4vh;
+        right: 4vw;
+    }
+    #btn_brochure {
+        z-index: 3;
+        position: absolute;
+        bottom: 4vh;
+        right: 22vw;
+    }
+}
+
+@media (max-width: 1315px) {
+    #btn_morado,
+    #btn_rosa {
+        width: 70% !important;
+        height: 70% !important;
+    }
+    #btn_escribenos {
+        z-index: 3;
+        position: absolute;
+        bottom: 4vh;
+        right: 4vw;
+    }
+    #btn_brochure {
+        z-index: 3;
+        position: absolute;
+        bottom: 4vh;
+        right: 20vw;
+    }
+}
+
+@media (max-width: 1215px) {
+    #btn_morado,
+    #btn_rosa {
+        width: 60% !important;
+        height: 60% !important;
+    }
+    #btn_escribenos {
+        z-index: 3;
+        position: absolute;
+        bottom: 4vh;
+        right: 4vw;
+    }
+    #btn_brochure {
+        z-index: 3;
+        position: absolute;
+        bottom: 4vh;
+        right: 16vw;
+    }
+}
+
+@media (min-width: 992px) {
+    .movil {
+        display: none;
+    }
+}
+
+@media only screen and (orientation:portrait) {
+    #celular {
+        display: none;
+    }
+    body {
+        background-image: url("../images/Girar_1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

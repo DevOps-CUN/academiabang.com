@@ -1,0 +1,68 @@
+h5 {
+    text-align: center;
+    color: #1E1020;
+    font-size: 2.5vh !important;
+}
+
+.parrafo1 {
+    color: #230821;
+    font-family: 'Delius', cursive !important;
+    text-align: justify;
+    font-size: 2vh;
+}
+
+.boton {
+    text-align: center;
+}
+
+#sectionvideo {
+    background-image: url(../images/Certificados/Background_video.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+video::-internal-media-controls-download-button {
+    display: none;
+}
+
+video::-webkit-media-controls-enclosure {
+    overflow: hidden;
+}
+
+video::-webkit-media-controls-panel {
+    width: calc(100% + 30px);
+}
+
+@media (min-width: 992px) {
+    #section1_mov {
+        display: none;
+    }
+}
+
+@media (max-width: 992px) {
+    #section1 {
+        display: none;
+    }
+    .parrafo1 {
+        color: #230821;
+        font-family: 'Delius', cursive !important;
+        text-align: justify;
+        font-size: 1.5rem;
+    }
+    h5 {
+        text-align: center;
+        color: #1E1020;
+        font-size: 5vh !important;
+    }
+}
+
+@media only screen and (orientation:portrait) {
+    #celular {
+        display: none;
+    }
+    body {
+        background-image: url("../images/Girar_1.png");
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+}

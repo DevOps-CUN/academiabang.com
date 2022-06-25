@@ -1,0 +1,379 @@
+h2 {
+  color: #ffffff;
+  font-size: 3.5vh !important;
+  text-align: center;
+}
+
+#videoContainer {
+  padding: 36.25% 0 0 0;
+  position: absolute;
+  width: 52%;
+  left: 44%;
+  display: none;
+}
+
+/* #videoGrado {
+  z-index: 99;
+  position: absolute;
+  width: 52%;
+  left: 44%;
+  margin-top: 4%;
+  border-radius: 18px;
+  display: block;
+} */
+
+#countDownContainer {
+  position: absolute;
+  right: 15%;
+  margin-top: 14%;
+}
+
+.pCountDown {
+  display: inline;
+  font-size: 5em;
+  margin-top: 0px;
+  font-weight: bold;
+  color: white;
+}
+
+#sectionformularios {
+  background-image: url("../images/Intraemprendedores/formularios.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.parrafolist {
+  color: #230821;
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 2vh !important;
+}
+
+.form_dos {
+  border-radius: 1vh;
+  border-color: #f3f3f3;
+  font-family: "Delius", cursive !important;
+}
+
+.parrafo_for {
+  color: #230821;
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 3vh !important;
+}
+
+.parrafo {
+  color: #230821;
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 3vh !important;
+}
+
+.ACTIVE {
+  color: #21a2a5;
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 2.3vh !important;
+}
+
+.classvisible {
+  display: block !important;
+}
+
+.classinvisible {
+  display: none !important;
+}
+
+#fintra {
+  background-image: url("../images/Intraemprendedores/cuadro.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+#desplegable {
+  text-align: center;
+}
+
+#ModalCenter {
+  background-image: url("../images/Intraemprendedores/cuadro intraemprendedor3.png");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+#ModalCenter2 {
+  background-color: #fac645 !important;
+}
+
+#search-input {
+  color: #230821;
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 3vh !important;
+  border-radius: 4px;
+  border: 1px solid #230821;
+}
+
+#search-input:focus {
+  outline: none;
+}
+
+#search-results {
+  position: absolute;
+  z-index: 10;
+  margin: 4.8vh auto;
+  background: #230821;
+  width: 100%;
+  text-align: center;
+  border-radius: 4px;
+  border: 2px solid #230821;
+  display: none;
+}
+
+.search-item {
+  color: white;
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 2vh !important;
+  cursor: pointer;
+}
+
+.search-item p {
+  margin: 0;
+  padding: 10px;
+}
+
+.search-item:hover {
+  background: #230821;
+}
+
+#search-data {
+  color: #230821;
+  text-align: center;
+}
+
+#search-data p {
+  margin: 0;
+  padding: 6px;
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 2vh !important;
+}
+
+iframe {
+  width: 100%;
+  height: 200%;
+}
+
+#frame {
+  width: 100% !important;
+  height: 42vh !important;
+}
+
+#loader {
+  border: 1vh solid #f3f3f3;
+  text-align: center;
+  display: none;
+  border-radius: 50%;
+  border-top: 1vh solid #ec6b68;
+  width: 3vh;
+  height: 3vh;
+  -webkit-animation: spin 2s linear infinite;
+  /* Safari */
+  animation: spin 2s linear infinite;
+}
+
+#wait {
+  font-family: "Delius", cursive !important;
+  text-align: center;
+  font-size: 2vh !important;
+  display: none;
+}
+
+/* Safari */
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.modal_dentro {
+  background-color: transparent !important;
+}
+
+#modalmorado {
+  background-color: #230821;
+}
+
+#descripcion {
+  color: #230821;
+  font-family: "Delius", cursive !important;
+  font-size: 3vh !important;
+  font-weight: bold;
+}
+
+#descripciontxt {
+  color: #230821;
+  font-family: "Delius", cursive !important;
+  font-size: 2.5vh !important;
+}
+
+@media (min-width: 992px) {
+  #desplegable {
+    display: none;
+  }
+  h4 {
+    display: none;
+  }
+}
+
+@media (max-width: 1500px) {
+  #sectionformularios {
+    background-image: url("../images/Intraemprendedores/formularios2.png");
+    background-size: 100% 90%;
+    background-repeat: no-repeat;
+  }
+  #facilitadores {
+    padding-top: 0% !important;
+    margin-top: 0% !important;
+    width: 50% !important;
+  }
+  #participantes {
+    padding-top: 0% !important;
+    margin-top: 0% !important;
+    width: 60% !important;
+  }
+  .parrafo_for {
+    padding-bottom: 0% !important;
+    font-size: 2vh !important;
+  }
+  #formulario {
+    padding-bottom: 10% !important;
+  }
+  #btn_enviarpar {
+    padding-top: 0% !important;
+    width: 50%;
+  }
+  #btn_enviarfa {
+    padding-top: 0% !important;
+    width: 50%;
+  }
+}
+
+@media (max-width: 992px) {
+  .pCountDown {
+    font-size: 3em;
+  }
+  .lista {
+    display: none;
+  }
+  h4 {
+    display: block;
+    color: #230821;
+    font-size: 15vh;
+  }
+  #sectionformularios {
+    background-color: #fac645 !important;
+    background-image: none;
+  }
+  .parrafo_for {
+    color: #230821;
+    font-family: "Delius", cursive !important;
+    text-align: center;
+    font-size: 5vh !important;
+  }
+  #fintra {
+    background-image: url("../images/Intraemprendedores/cuadro2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .parrafo {
+    color: #230821;
+    font-family: "Delius", cursive !important;
+    text-align: center;
+    font-size: 5vh !important;
+  }
+  .ACTIVE {
+    color: #21a2a5;
+    font-family: "Delius", cursive !important;
+    text-align: center;
+    font-size: 5vh !important;
+  }
+  h2 {
+    color: #ffffff;
+    font-size: 4.5vh !important;
+    text-align: center;
+  }
+  #descripcion {
+    color: #230821;
+    font-family: "Delius", cursive !important;
+    font-size: 4vh !important;
+    font-weight: bold;
+  }
+  #descripciontxt {
+    color: #230821;
+    font-family: "Delius", cursive !important;
+    font-size: 3.5vh !important;
+  }
+  #ModalCenter {
+    background-image: url("../images/Intraemprendedores/cuadro_movil.png");
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+
+@media (min-width: 2000px) {
+  #facilitadores {
+    padding-top: 7% !important;
+    padding-bottom: 3% !important;
+    width: 70% !important;
+  }
+  #participantes {
+    padding-top: 12% !important;
+    width: 70% !important;
+  }
+  .parrafo_for {
+    padding-bottom: 5% !important;
+  }
+  #formulario {
+    padding-bottom: 10% !important;
+  }
+}
+
+@media (min-width: 3000px) {
+  #sectionformularios {
+    background-image: url("../images/Intraemprendedores/formularios2.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  #facilitadores {
+    padding-top: 30% !important;
+    padding-bottom: 5% !important;
+    width: 60% !important;
+  }
+  #participantes {
+    padding-top: 40% !important;
+    padding-bottom: 5% !important;
+    width: 70% !important;
+  }
+  .parrafo_for {
+    padding-bottom: 5% !important;
+  }
+  #formulario {
+    padding-bottom: 10% !important;
+  }
+}
